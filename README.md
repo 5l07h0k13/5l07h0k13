@@ -79,21 +79,21 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
 ## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=5l07h0k13&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5l07h0k13&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=5l07h0k13&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=5l07h0k13&theme=jolly&response=false)](https://github.com/5l07h0k13/github-twitter-card-embed)
 
 ### Thanks for Visiting my GitHub Profile!
 
 ---
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/5l07h0k13/5l07h0k13/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 
